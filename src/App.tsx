@@ -10,7 +10,7 @@ const CAR_IMAGES: string[] = [
   "/images/car_interior.jpeg",
 ];
 
-// These would be frame-by-frame images of the same car rotated.
+
 const CAR_360_FRAMES: string[] = [
   "/images/360/frame_1.jpeg",
   "/images/360/frame_2.jpeg",
@@ -20,7 +20,7 @@ const CAR_360_FRAMES: string[] = [
   "/images/360/frame_6.jpeg",
 ];
 
-const basePricePerInvitePerHour = 50; // you can tweak this
+const basePricePerInvitePerHour = 50; 
 
 type PointerEvent = React.MouseEvent<Element> | React.TouchEvent<Element>;
 
