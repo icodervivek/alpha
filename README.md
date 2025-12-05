@@ -13,7 +13,7 @@ A responsive car detail page built with **React (Vite + TypeScript)** and **Tail
 
 Live Demo (Vercel): https://your-vercel-url.vercel.app  
 
-GitHub Repo: https://github.com/your-username/alpha-car-assignment
+GitHub Repo: https://github.com/icodervivek/alpha
 
 ---
 
@@ -47,8 +47,8 @@ Model — Year — Mileage — Price — Fuel Type — Transmission — Location
 
 ## Local Setup
 
-git clone https://github.com/your-username/alpha-car-assignment.git
-cd alpha-car-assignment
+git clone https://github.com/icodervivek/alpha
+cd alpha
 npm install
 npm run dev
 
