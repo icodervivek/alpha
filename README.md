@@ -47,18 +47,24 @@ Model — Year — Mileage — Price — Fuel Type — Transmission — Location
 
 ## Local Setup
 
+```
 git clone https://github.com/icodervivek/alpha
 cd alpha
 npm install
 npm run dev
+```
 
 Build for production:
 
+```
 npm run build
+```
 
 Preview build:
 
+```
 npm run preview
+```
 
 ---
 
