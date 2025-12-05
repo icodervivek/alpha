@@ -151,7 +151,6 @@ export default function HomePage() {
                     className="h-full w-full object-cover transition-transform duration-300 hover:scale-[1.02]"
                     width={900}
                     height={600}
-                    priority
                   />
                 </div>
                 <button
