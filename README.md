@@ -11,7 +11,7 @@ A responsive car detail page built with **React (Vite + TypeScript)** and **Tail
 
 ## Deployment & Repository Links (update before submission)
 
-Live Demo (Vercel): https://your-vercel-url.vercel.app  
+Live Demo (Vercel): https://alpha-lac-theta.vercel.app
 
 GitHub Repo: https://github.com/icodervivek/alpha
 
